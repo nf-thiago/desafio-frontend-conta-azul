@@ -1,0 +1,23 @@
+@import '@/assets/sass/reset.scss';
+
+$app-background-color: #F1F1F1;
+$font-family: Helvetica, Arial, sans-serif;
+
+$card-footer-background-color: rgba(#F1F1F1, 0.5);
+$divider-color : #EBEBEB;
+$box-shadow: rgba(#333333, 0.1);
+
+$font-color-primary: #737C84;
+$font-color-secondary: #B4B4B4;
+
+$white: #FFF;
+$blue: #69A3FF;
+$orange: #FF9632;
+$red: #ED1946;
+
+$header-height: 55px;
+
+body {
+  background-color: $app-background-color;
+  font-family: $font-family;
+}
